@@ -1,0 +1,50 @@
+body{
+    background-image: url(../img/Alinhamento\ Cósmico\ do\ Sistema\ Solar.png);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+#header {
+    background-color: #333;
+    color: white;
+    padding: 9px;
+    text-align: center;
+}
+
+#menu {
+    float: left;
+    width: 20%;
+    height: 390px;
+    line-height: 80px;
+    
+}
+
+#main {
+    margin-left: 20%;
+    margin-right: 15%;
+    height: 710px;
+    padding: 20px;
+    color: white;
+}
+
+#footer {
+    background-color: #333;
+    color: white;
+    padding: 1px;
+    text-align: center;
+}
+p{
+    
+    font-size: 18px;
+}
+li{
+    font-size: 18px;
+    margin-left: 20%;
+}
+h3{
+    font-size: 19px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
